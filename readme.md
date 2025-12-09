@@ -305,7 +305,4 @@ After applying these steps, your server is protected from:
 * Weak password sign-ins
 * Accidental data loss (with backups)
 
-📄 `recovery-guide.md`
-📄 Ansible script to automate everything
 
-Just tell me!
