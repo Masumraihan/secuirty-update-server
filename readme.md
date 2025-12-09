@@ -1,7 +1,3 @@
-Here is a clean, professional, production-ready **README.md** you can keep in your repo or internal documentation to secure any DigitalOcean droplet from brute-force attacks, bot scans, and unauthorized SSH access.
-
----
-
 # 🛡️ **Droplet Security Hardening Guide**
 
 ### Protecting Ubuntu + DigitalOcean Droplets from Brute-Force Attacks
@@ -309,12 +305,6 @@ After applying these steps, your server is protected from:
 * Weak password sign-ins
 * Accidental data loss (with backups)
 
----
-
-If you want, I can also generate:
-
-📄 `SECURITY.md`
-📄 `server-setup.md`
 📄 `recovery-guide.md`
 📄 Ansible script to automate everything
 
